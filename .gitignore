@@ -1,0 +1,10 @@
+;;files to ignore
+
+;;extensions to ignore
+*.log
+*.pot
+*.pyc
+
+;;directories to ignore
+.idea/
+env/
